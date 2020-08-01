@@ -1,2 +1,2 @@
 this is my second file
-adding new line
+test merge
